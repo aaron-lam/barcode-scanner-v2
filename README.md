@@ -85,4 +85,4 @@ Here is the result of time performance.
 
 <img width="800" alt="time performance graph Array" src="https://user-images.githubusercontent.com/23665164/49344549-b37bdb00-f62d-11e8-8f5b-8a04b63310f6.png">
 
-<img width="800" alt="time performance graph Hash Table" src="https://user-images.githubusercontent.com/23665164/49421906-9ab31880-f746-11e8-9cb1-6c4567c78f89.png">
+<img width="800" alt="time performance graph Hash Table" src="https://user-images.githubusercontent.com/23665164/49421950-c7673000-f746-11e8-9851-62b7a1f93721.png">
