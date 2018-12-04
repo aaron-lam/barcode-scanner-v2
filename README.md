@@ -10,7 +10,7 @@ We use this application to test the time performance of data structures, includi
 
 1. Please copy and paste the following command line in your terminal to build the project.
 ```
-g++ ArrayAndBSTPerformance.cpp BinarySearchTree.cpp Array.cpp Barcode.cpp BarcodeArrayScanner.cpp BarcodeBSTScanner.cpp HashTable.cpp BarcodeHashTableScanner.cpp -o Performance
+g++ PerformanceTest.cpp BinarySearchTree.cpp Array.cpp Barcode.cpp BarcodeArrayScanner.cpp BarcodeBSTScanner.cpp HashTable.cpp BarcodeHashTableScanner.cpp -o Performance
 ```
 
 2. Then run the application with the text file path specified
