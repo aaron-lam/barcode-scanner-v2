@@ -2,7 +2,7 @@
 
 BarcodeScanner is an application for searching barcode with upc number.
 
-We use this application to test the time performance of two value structures, array and binary search tree.
+We use this application to test the time performance of data structures, including array, binary search tree, and hash table.
 
 # Getting Started
 
@@ -85,3 +85,4 @@ Here is the result of time performance.
 
 <img width="800" alt="time performance graph Array" src="https://user-images.githubusercontent.com/23665164/49344549-b37bdb00-f62d-11e8-8f5b-8a04b63310f6.png">
 
+<img width="800" alt="time performance graph Hash Table" src="https://user-images.githubusercontent.com/23665164/49421725-fcbf4e00-f745-11e8-8c45-1e30ec728f90.png">
